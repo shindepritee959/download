@@ -3,7 +3,7 @@
   <update>
     <name>miniOrange Import Export Users</name>
     <description>Package update feed for miniOrange Import Export Users</description>
-    <element>importexportusers</element>
+    <element>pkg_importexportusers</element>
     <type>package</type>
     <version>22.4</version>
     <infourl title="Release notes">https://portal.miniorange.com/downloads</infourl>
