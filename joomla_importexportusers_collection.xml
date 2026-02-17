@@ -9,7 +9,7 @@
         <infourl title="miniOrange">https://portal.miniorange.com/downloads</infourl>
         <downloads>
             <downloadurl type="full" format="zip">
-                https://github.com/shindepritee959/download/blob/main/pkg_download-22.4.zip
+                https://raw.githubusercontent.com/shindepritee959/download/main/pkg_download.zip
             </downloadurl>
         </downloads>
         <targetplatform name="joomla" version="3\..*|4\..*|5\..*" />
