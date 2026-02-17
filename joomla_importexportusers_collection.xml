@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>miniOrange Import Export Users</name>
+        <description>miniOrange Import Export Users package update</description>
+        <element>pkg_importexportusers</element>
+        <type>package</type>
+        <version>22.4</version>
+        <infourl title="miniOrange">https://portal.miniorange.com/downloads</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://github.com/shindepritee959/download/blob/main/pkg_download-22.4.zip
+            </downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="3\..*|4\..*|5\..*" />
+    </update>
+</updates>
